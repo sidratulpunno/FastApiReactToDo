@@ -1,0 +1,32 @@
+
+body {
+  background: #fafafa;
+  color: #33333a;
+  padding-top: 70px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #323232;
+}
+
+.main-color {
+  background-color: #0e76a8 ;
+}
+
+.strike-through-td {
+    text-decoration: line-through;
+}
+
+
+/*Login Page: We'll create a LoginPage component.*/
+/*Layout: We'll create a Layout component to serve as the base layout for all pages.*/
+/*Home Page: We'll create a HomePage component.*/
+/*Forget Password Page: We'll create a ForgetPasswordPage component.*/
+/*Edit Todo Page: We'll create an EditTodoPage component.*/
+/*Add Todo Page: We'll create an AddTodoPage component.*/
+/*Navbar: We'll create a Navbar component.*/
+/*Register Page: We'll create a RegisterPage component.*/
+/*Reset Password Page: We'll create a ResetPasswordPage component.*/
+
+
+

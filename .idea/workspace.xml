@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79dc9181-6947-4b39-8bbf-9a39ddd14a63" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fastapifullstacktodos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fastapifullstacktodos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/routers/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/todos.py" beforeDir="false" afterPath="$PROJECT_DIR$/routers/todos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/todo/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/todo/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/todo/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/todo/js/jquery-slim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/todo/js/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/add-todo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/edit-todo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/navbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todosapp.db" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2goQBHICHYBoZ94wBQy8C3Aq6Th" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/sidra/Downloads/Documents/fastapifullstacktodos",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79dc9181-6947-4b39-8bbf-9a39ddd14a63" name="Changes" comment="" />
+      <created>1716361317300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716361317300</updated>
+      <workItem from="1716361318797" duration="182000" />
+      <workItem from="1716361504190" duration="501000" />
+      <workItem from="1716364417964" duration="1531000" />
+      <workItem from="1716365996560" duration="610000" />
+      <workItem from="1716395158537" duration="311000" />
+      <workItem from="1716396022091" duration="2423000" />
+      <workItem from="1716399210527" duration="1444000" />
+      <workItem from="1716561167891" duration="880000" />
+      <workItem from="1716697683443" duration="1500000" />
+      <workItem from="1716699238864" duration="298000" />
+      <workItem from="1716699559153" duration="389000" />
+      <workItem from="1716701295872" duration="2242000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
